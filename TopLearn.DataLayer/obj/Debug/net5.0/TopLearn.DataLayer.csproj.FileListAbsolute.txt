@@ -1,0 +1,45 @@
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.DataLayer\bin\Debug\net5.0\TopLearn.DataLayer.deps.json
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.DataLayer\bin\Debug\net5.0\TopLearn.DataLayer.dll
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.DataLayer\bin\Debug\net5.0\ref\TopLearn.DataLayer.dll
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.DataLayer\bin\Debug\net5.0\TopLearn.DataLayer.pdb
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.AssemblyInfoInputs.cache
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.AssemblyInfo.cs
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.csproj.CoreCompileInputs.cache
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.dll
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\ref\TopLearn.DataLayer.dll
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.pdb
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.DataLayer\bin\Debug\net5.0\TopLearn.DataLayer.runtimeconfig.json
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.DataLayer\bin\Debug\net5.0\TopLearn.DataLayer.runtimeconfig.dev.json
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.genruntimeconfig.cache
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.csproj.AssemblyReference.cache
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.DataLayer\bin\Debug\net5.0\TopLearn.DataLayer.deps.json
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.DataLayer\bin\Debug\net5.0\TopLearn.DataLayer.runtimeconfig.json
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.DataLayer\bin\Debug\net5.0\TopLearn.DataLayer.runtimeconfig.dev.json
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.DataLayer\bin\Debug\net5.0\TopLearn.DataLayer.dll
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.DataLayer\bin\Debug\net5.0\ref\TopLearn.DataLayer.dll
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.DataLayer\bin\Debug\net5.0\TopLearn.DataLayer.pdb
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.csproj.AssemblyReference.cache
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.AssemblyInfoInputs.cache
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.AssemblyInfo.cs
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.csproj.CoreCompileInputs.cache
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.dll
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\ref\TopLearn.DataLayer.dll
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.pdb
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.genruntimeconfig.cache
+C:\Users\mahdi\Desktop\toplearn-website\TopLearn.DataLayer\bin\Debug\net5.0\TopLearn.DataLayer.deps.json
+C:\Users\mahdi\Desktop\toplearn-website\TopLearn.DataLayer\bin\Debug\net5.0\TopLearn.DataLayer.runtimeconfig.json
+C:\Users\mahdi\Desktop\toplearn-website\TopLearn.DataLayer\bin\Debug\net5.0\TopLearn.DataLayer.runtimeconfig.dev.json
+C:\Users\mahdi\Desktop\toplearn-website\TopLearn.DataLayer\bin\Debug\net5.0\TopLearn.DataLayer.dll
+C:\Users\mahdi\Desktop\toplearn-website\TopLearn.DataLayer\bin\Debug\net5.0\TopLearn.DataLayer.pdb
+C:\Users\mahdi\Desktop\toplearn-website\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.csproj.AssemblyReference.cache
+C:\Users\mahdi\Desktop\toplearn-website\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahdi\Desktop\toplearn-website\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.AssemblyInfoInputs.cache
+C:\Users\mahdi\Desktop\toplearn-website\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.AssemblyInfo.cs
+C:\Users\mahdi\Desktop\toplearn-website\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\Desktop\toplearn-website\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.dll
+C:\Users\mahdi\Desktop\toplearn-website\TopLearn.DataLayer\obj\Debug\net5.0\refint\TopLearn.DataLayer.dll
+C:\Users\mahdi\Desktop\toplearn-website\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.pdb
+C:\Users\mahdi\Desktop\toplearn-website\TopLearn.DataLayer\obj\Debug\net5.0\TopLearn.DataLayer.genruntimeconfig.cache
+C:\Users\mahdi\Desktop\toplearn-website\TopLearn.DataLayer\obj\Debug\net5.0\ref\TopLearn.DataLayer.dll

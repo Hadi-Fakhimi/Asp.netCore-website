@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d794949e-1a2b-4040-b812-982d18986b33": {
+      "ProjectGuid": "d794949e-1a2b-4040-b812-982d18986b33",
+      "DisplayName": "TopLearn.Web",
+      "ColorIndex": 0
+    },
+    "c983aa2d-5e50-46a5-b0ab-fefb9a239f7c": {
+      "ProjectGuid": "c983aa2d-5e50-46a5-b0ab-fefb9a239f7c",
+      "DisplayName": "TopLearn.Core",
+      "ColorIndex": 1
+    },
+    "99051f4c-f623-4dd5-b89c-d5e8c557f640": {
+      "ProjectGuid": "99051f4c-f623-4dd5-b89c-d5e8c557f640",
+      "DisplayName": "TopLearn.DataLayer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
